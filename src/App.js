@@ -1,4 +1,4 @@
-import './App.css';
+
 import Navbar from './components/Navbar/Navbar';
 import { Route, Routes } from 'react-router-dom';
 import FormLugar from './components/FormLugar/FormLugar';
