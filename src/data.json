@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name" : "Super Mario",
+        "platform" : "SNES",
+        "state" : true
+    },
+    {
+        "id": 2,
+        "name" : "Sonic the Hedgehog",
+        "platform" : "Sega",
+        "state" : false
+    },
+    {
+        "id": 3,
+        "name" : "Zelda: The ocarine of time",
+        "platform" : "N64",
+        "state" : true
+    },
+    {
+        "id": 4,
+        "name" : "Minecraft",
+        "platform" : "PC",
+        "state" : true
+    },
+    {
+        "id": 5,
+        "name" : "Zelda: The ocarine of time",
+        "platform" : "N64",
+        "state" : true
+    },
+    {
+        "id": 6,
+        "name" : "Pong",
+        "platform" : "Arcade",
+        "state" : true
+    },
+    {
+        "id": 7,
+        "name" : "Halo",
+        "platform" : "XBOX",
+        "state" : true
+    }
+]

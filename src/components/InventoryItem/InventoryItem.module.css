@@ -1,0 +1,12 @@
+.listItem {
+    border-bottom: 1px solid #ddd;
+ 
+}
+
+
+
+.checked {
+    font-weight: bolder;
+    color: #00843D;
+}
+

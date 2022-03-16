@@ -1,0 +1,1 @@
+export { default as Lugares } from './Lugares'
