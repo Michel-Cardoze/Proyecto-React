@@ -1,0 +1,17 @@
+.boton {
+    background: none;
+    border: none;
+    color: #00843D;
+    font-size: xx-large;
+    height: fit-content;
+    width: fit-content;
+    height: 10px;
+    position: relative;
+    top: -12px;
+}
+
+.boton:hover {
+    color: #00843D;
+    cursor: pointer;
+    text-shadow: 3px 3px 6px #333;
+}

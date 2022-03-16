@@ -1,0 +1,28 @@
+.listItem {
+    border-bottom: 1px solid #00843D;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    max-width: 75%;
+    min-height: 2rem;
+    padding-top: 5%;
+    background-color: #202124;
+}
+
+
+
+.checked {
+    font-weight: bolder;
+    color: #74B02A;
+}
+
+
+
+li span{
+    color: #ffffff;
+}
+
+section{
+    background-color: #202124;
+}

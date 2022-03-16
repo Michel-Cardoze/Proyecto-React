@@ -1,0 +1,22 @@
+.hidden {
+    display: none;
+}
+
+.panel{
+    background-color: #00843D;
+    border: 3px solid #00843D;
+    font-size: medium;
+    height: 93.2vh;
+    position: absolute;
+    right: 0;
+    top: 4.5%;
+    width: 15%;
+    color: #fff;
+    
+}
+
+.showed {
+    display: initial;
+    color: white;
+}
+

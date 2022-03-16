@@ -1,0 +1,26 @@
+
+.checked{
+    font-weight: bolder;
+    
+}
+
+input.checkbox{
+    padding-top: 5%;
+}
+
+.listItem {
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    max-width: 75%;
+    min-height: 2rem;
+    padding-top: 5%;
+
+
+}
+
+.checked{
+    color: palevioletreD;
+}
